@@ -1,0 +1,14 @@
+c:\users\marcoa\source\repos\Jogo2D_com_movimento\Jogo2D_com_movimento\bin\Debug\Jogo2D_com_movimento.exe.config
+c:\users\marcoa\source\repos\Jogo2D_com_movimento\Jogo2D_com_movimento\bin\Debug\Jogo2D_com_movimento.exe
+c:\users\marcoa\source\repos\Jogo2D_com_movimento\Jogo2D_com_movimento\bin\Debug\Jogo2D_com_movimento.pdb
+c:\users\marcoa\source\repos\Jogo2D_com_movimento\Jogo2D_com_movimento\obj\Debug\Jogo2D_com_movimento.csprojAssemblyReference.cache
+c:\users\marcoa\source\repos\Jogo2D_com_movimento\Jogo2D_com_movimento\obj\Debug\Jogo2D_com_movimento.csproj.CoreCompileInputs.cache
+c:\users\marcoa\source\repos\Jogo2D_com_movimento\Jogo2D_com_movimento\obj\Debug\Jogo2D_com_movimento.exe
+c:\users\marcoa\source\repos\Jogo2D_com_movimento\Jogo2D_com_movimento\obj\Debug\Jogo2D_com_movimento.pdb
+C:\Users\marco\Google Drive\Melies\1º semestre\fundamentos da programação\Jogo2D_com_movimento\Jogo2D_com_movimento\bin\Debug\Jogo2D_com_movimento.exe.config
+C:\Users\marco\Google Drive\Melies\1º semestre\fundamentos da programação\Jogo2D_com_movimento\Jogo2D_com_movimento\bin\Debug\Jogo2D_com_movimento.exe
+C:\Users\marco\Google Drive\Melies\1º semestre\fundamentos da programação\Jogo2D_com_movimento\Jogo2D_com_movimento\bin\Debug\Jogo2D_com_movimento.pdb
+C:\Users\marco\Google Drive\Melies\1º semestre\fundamentos da programação\Jogo2D_com_movimento\Jogo2D_com_movimento\obj\Debug\Jogo2D_com_movimento.csprojResolveAssemblyReference.cache
+C:\Users\marco\Google Drive\Melies\1º semestre\fundamentos da programação\Jogo2D_com_movimento\Jogo2D_com_movimento\obj\Debug\Jogo2D_com_movimento.csproj.CoreCompileInputs.cache
+C:\Users\marco\Google Drive\Melies\1º semestre\fundamentos da programação\Jogo2D_com_movimento\Jogo2D_com_movimento\obj\Debug\Jogo2D_com_movimento.exe
+C:\Users\marco\Google Drive\Melies\1º semestre\fundamentos da programação\Jogo2D_com_movimento\Jogo2D_com_movimento\obj\Debug\Jogo2D_com_movimento.pdb
